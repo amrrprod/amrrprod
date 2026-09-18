@@ -88,33 +88,10 @@ different systems work together without breaking everything. 😄
 
 ## Currently
 
-I'm focusing on building modern web applications with React and Next.js,
+I'm focusing on building modern web applications with React, Next.js, laravel and nodejs
 while continuing to explore AI integrations, automation, cloud
 infrastructure, and better software architecture.
 
 I'm also interested in remote opportunities where I can work on
 challenging products and contribute beyond just writing UI code.
 
----
-
-## Featured Work
-
-### Developer Lab
-
-A collection of experiments, reusable utilities, development patterns,
-testing examples, and things I'm learning along the way.
-
-[View Developer Lab](https://github.com/amrrprod/developer-lab)
-
----
-
-## Let's Connect
-
-If you're working on something interesting and think I could help,
-feel free to reach out.
-
-[GitHub](https://github.com/amrrprod)
-
----
-
-⭐ Thanks for stopping by.
