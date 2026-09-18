@@ -47,7 +47,7 @@ Tailwind CSS · Shadcn UI · Radix UI
 
 ### Backend
 
-Laravel · PHP · MySQL · REST APIs
+Laravel · PHP · MySQL · REST APIs · Nodejs
 
 ### Mobile
 
